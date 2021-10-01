@@ -22,7 +22,8 @@ client.run('Token here')
 Replace the `Token here` for your bot's token
 
 Required dependencies:
-[Discord.py](https://discordpy.readthedocs.io/)
+* [Python](https://www.python.org/)
+* [Discord.py](https://discordpy.readthedocs.io/)
 
 To install dependencies, open cmd and type:
 ```py
