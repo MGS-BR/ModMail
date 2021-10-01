@@ -3,16 +3,16 @@ A simple mailbox for your server
 
 ## Setup
 
-In the modmail command has 2 lines where changes are needed
+In the modmail command has 2 lines where changes are needed.
 
 ```py
 guild = client.get_guild(id=id_guild)
 guild_channel = client.get_channel(id_channel)
 ```
 
-Substitute `id_guild` for your server id
+Substitute `id_guild` for your server id.
 
-Replace `id_channel` for ModMail chat id
+Replace `id_channel` for ModMail chat id.
 
 In the last line we have:
 
@@ -20,7 +20,7 @@ In the last line we have:
 client.run('Token here')
 ```
 
-Replace the `Token here` for your bot's token
+Replace the `Token here` for your bot's token.
 
 Required dependencies:
 * [Python](https://www.python.org/)
