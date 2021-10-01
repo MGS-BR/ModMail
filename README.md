@@ -11,6 +11,7 @@ guild_channel = client.get_channel(id_channel)
 ```
 
 Substitute `id_guild` for your server id
+
 Replace `id_channel` for ModMail chat id
 
 In the last line we have:
