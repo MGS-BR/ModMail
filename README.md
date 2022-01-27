@@ -28,7 +28,7 @@ Required dependencies:
 
 To install dependencies, open cmd and type:
 ```py
-pip install discord.py
+pip install -r requirements.txt
 ```
 
 ## Commands
